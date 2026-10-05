@@ -1,0 +1,4 @@
+﻿Algoritmo,MAE (W/m²),MSE ((W/m²)²),R²
+Regressão Linear,145.2049,30034.2011,0.3598
+Random Forest,66.3994,7210.0838,0.8463
+Gradient Boosting,64.9453,7233.5866,0.8458

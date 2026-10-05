@@ -1,0 +1,4 @@
+﻿Algoritmo,Accuracy,Precision (macro),Recall (macro),F1 (macro),F1 (weighted)
+Regressão Logística,0.8222,0.8367,0.8207,0.8184,0.8219
+KNN (k=7),0.9665,0.967,0.9649,0.9658,0.9664
+Random Forest,0.9768,0.978,0.9755,0.9765,0.9768
